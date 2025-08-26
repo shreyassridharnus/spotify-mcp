@@ -48,3 +48,4 @@ logs/
 # Token and credential files
 tokens.json
 .env.local
+.env
